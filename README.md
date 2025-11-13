@@ -7,4 +7,11 @@
     <link href=./css/style.css type="text/css" rel="stylesheet" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" >
   </head>
+  <body>
+    <header>
+      <div class="logo">
+        <img src="./images/ep.jpg" />
+      </div>
+    </header>
+  </body>
 </html>
