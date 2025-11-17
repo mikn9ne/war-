@@ -13,5 +13,10 @@
         <img src="./images/ep.jpg" />
       </div>
     </header>
+    <div id= "gameboard" class="flex">
+      <div class="flexcloumn">
+        <h1>war!</h1>
+        <h2 id=winner>winner</h2>
+        
   </body>
 </html>
