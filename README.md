@@ -17,6 +17,14 @@
       <div class="flexcloumn">
         <h1>war!</h1>
         <h2 id=winner>winner</h2>
-        
+$draw.on('click'), funtction () {
+$firstplayersuit.empty();
+$secondplayersuit.empty();
+var number 1=firstplayer[0][0];
+var number 2=secondplayer[0][0];
+        $firstplayernumber.html(number 1);
+        $secondplayernumber.html(number 2);
+        suit1 = firstplayer[0][1];
+        suit2 = secondplayer[0][1];
   </body>
 </html>
