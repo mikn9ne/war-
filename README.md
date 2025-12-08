@@ -26,5 +26,13 @@ var number 2=secondplayer[0][0];
         $secondplayernumber.html(number 2);
         suit1 = firstplayer[0][1];
         suit2 = secondplayer[0][1];
+        <div class=”mobile”>
+<p class=”faceCards hidden”>Jack=11 Queen=12 King=13</p>
+<p class=”compareDirections hidden”>Click on the card that shows a greater amount.</p>
+<p class=”addDirections hidden”>Add the card amounts together.</p>
+<p class=”multiplyDirections hidden”>Multiply the card amounts together.</p>
+<p class=”subtractDirections hidden”>Player’s card minus Computer’s card
+<p class=”integerDirections hidden”>Black is positive. Red is negative.</p>
+</div>
   </body>
 </html>
